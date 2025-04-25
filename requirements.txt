@@ -8,6 +8,6 @@ huggingface-hub==0.30.2
 safetensors==0.5.3
 scikit-learn==1.6.1
 tokenizers==0.21.1
-datasets==3.5.0
+# datasets==3.5.0
 tqdm==4.67.1
 mteb==1.38.1
